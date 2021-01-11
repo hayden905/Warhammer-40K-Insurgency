@@ -1,0 +1,1 @@
+bon_recruit_recruitableunits = ["DKoK_GM_1489th","DKoK_Gren_1489th","DKoK_GM_1489th_AT","DKoK_GM_1489th_Plasma","DKoK_GM_1489th_HStubber","DKoK_Eng_1489th","DKoK_Off_1489th"];
